@@ -50,7 +50,7 @@
 Feel free to contribute and improve this project!
 
 ## Project Author
-Vikash Katiyar
+Lohith Bollineni
 
 
 
